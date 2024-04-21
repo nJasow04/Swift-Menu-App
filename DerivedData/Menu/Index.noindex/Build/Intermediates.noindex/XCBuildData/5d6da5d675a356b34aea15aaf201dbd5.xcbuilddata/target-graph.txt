@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'Menu' in project 'Menu' (no dependencies)
+Target 'Menu' in project 'Menu' (no dependencies)
