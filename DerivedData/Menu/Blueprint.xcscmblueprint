@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B9254F1BAAFDC58FE2433907E89DEBDB43F0E740",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B9254F1BAAFDC58FE2433907E89DEBDB43F0E740" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "153BB3D7-3EC5-4ACC-A745-CC736DA45E6F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B9254F1BAAFDC58FE2433907E89DEBDB43F0E740" : "Menu\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Menu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Menu.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nJasow04\/Swift-Menu-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B9254F1BAAFDC58FE2433907E89DEBDB43F0E740"
+    }
+  ]
+}

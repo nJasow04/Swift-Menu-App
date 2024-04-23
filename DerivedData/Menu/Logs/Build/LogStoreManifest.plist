@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>373C7796-7305-48B3-B3A3-20AD340E45F4</key>
+		<key>26860BA6-9AE0-479A-879B-11555253551F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,17 +15,17 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>373C7796-7305-48B3-B3A3-20AD340E45F4.xcactivitylog</string>
+			<string>26860BA6-9AE0-479A-879B-11555253551F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
@@ -40,13 +40,13 @@
 			<key>signature</key>
 			<string>Build for Previews Menu</string>
 			<key>timeStartedRecording</key>
-			<real>735390635.61006904</real>
+			<real>735549293.11196494</real>
 			<key>timeStoppedRecording</key>
-			<real>735390640.33463097</real>
+			<real>735549293.43619704</real>
 			<key>title</key>
 			<string>Build for Previews Menu</string>
 			<key>uniqueIdentifier</key>
-			<string>373C7796-7305-48B3-B3A3-20AD340E45F4</string>
+			<string>26860BA6-9AE0-479A-879B-11555253551F</string>
 		</dict>
 	</dict>
 </dict>

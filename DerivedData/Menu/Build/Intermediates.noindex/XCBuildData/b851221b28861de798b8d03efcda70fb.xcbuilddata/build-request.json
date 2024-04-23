@@ -1,0 +1,107 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "f9b34f1891954738e405767e1e15a53718fdb3be0426523448d8ebbe5fcca41e",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.4",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Products",
+          "derivedDataPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex",
+              "SYMROOT" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "C9F30A98-D3EA-4CCD-99B8-BBD7DC83C568",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.4",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Products",
+      "derivedDataPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "C9F30A98-D3EA-4CCD-99B8-BBD7DC83C568",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

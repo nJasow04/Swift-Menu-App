@@ -1,12 +1,5 @@
 {
   "source": "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
-  "tables": {
-    "Localizable": [
-      {
-        "comment": "",
-        "key": "Hello, world!"
-      }
-    ]
-  },
+  "tables": {},
   "version": 1
 }
