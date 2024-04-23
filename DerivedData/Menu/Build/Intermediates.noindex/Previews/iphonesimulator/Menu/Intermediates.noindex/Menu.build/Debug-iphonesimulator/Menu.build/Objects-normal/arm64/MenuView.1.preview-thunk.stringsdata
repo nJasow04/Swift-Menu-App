@@ -1,5 +1,12 @@
 {
   "source": "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuView.1.preview-thunk.swift",
-  "tables": {},
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Button"
+      }
+    ]
+  },
   "version": 1
 }

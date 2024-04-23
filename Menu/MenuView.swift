@@ -23,31 +23,48 @@ struct MenuView: View {
                               MenuItem(name: "Ikura Sushi", price: "5.99", imageName: "ikura-sushi")
                              ]
     
+    var words: [String] = ["5", "words", "you", "want", "These"]
+    @State var challengeList: [String] = []
+    
     
     var body: some View {
-        List(items) { item in
-            
-            
-            HStack {
-                Image(item.imageName)
-                    .resizable()
-                    .aspectRatio(contentMode: .fit)
-                    .frame(height: 50)
-                    .cornerRadius(10)
-                
-                VStack{
-                    Text(item.name).bold()
-                    
-                }
-                
-                Spacer()
-                
-                Text("$" + item.price)
-            }.listRowSeparator(.hidden).listRowBackground(Color(.brown).opacity(0.1))
-            
+//        List(items) { item in
+//            
+//            
+//            HStack {
+//                Image(item.imageName)
+//                    .resizable()
+//                    .aspectRatio(contentMode: .fit)
+//                    .frame(height: 50)
+//                    .cornerRadius(10)
+//                
+//                VStack{
+//                    Text(item.name).bold()
+//                    
+//                }
+//                
+//                Spacer()
+//                
+//                Text("$" + item.price)
+//            }.listRowSeparator(.hidden).listRowBackground(Color(.brown).opacity(0.1))
+//            
+//        }
+//        .listStyle(.plain)
+        
+        List(challengeList, id:\.self) { word in
+            Text(word)
         }
-        .listStyle(.plain)
+        Button(action: {clickButton()}, label: {
+            /*@START_MENU_TOKEN@*/Text("Button")/*@END_MENU_TOKEN@*/
+        })
+        
     }
+    
+    func clickButton() {
+        let index = Int.random(in: 0..<words.count)
+        challengeList.append(words[index])
+    }
+    
 }
 
 #Preview {

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAvocadoMaki</string>
+			<key>relativePath</key>
+			<string>./sushi image assets/avocado-maki.imageset</string>
+			<key>swiftSymbol</key>
+			<string>avocadoMaki</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCaliforniaRoll</string>
+			<key>relativePath</key>
+			<string>./sushi image assets/california-roll.imageset</string>
+			<key>swiftSymbol</key>
+			<string>californiaRoll</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameHamachiSushi</string>
+			<key>relativePath</key>
+			<string>./sushi image assets/hamachi-sushi.imageset</string>
+			<key>swiftSymbol</key>
+			<string>hamachiSushi</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameIkuraSushi</string>
+			<key>relativePath</key>
+			<string>./sushi image assets/ikura-sushi.imageset</string>
+			<key>swiftSymbol</key>
+			<string>ikuraSushi</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameKaniSushi</string>
+			<key>relativePath</key>
+			<string>./sushi image assets/kani-sushi.imageset</string>
+			<key>swiftSymbol</key>
+			<string>kaniSushi</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameMeguroSushi</string>
+			<key>relativePath</key>
+			<string>./sushi image assets/meguro-sushi.imageset</string>
+			<key>swiftSymbol</key>
+			<string>meguroSushi</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameOnigiri</string>
+			<key>relativePath</key>
+			<string>./sushi image assets/onigiri.imageset</string>
+			<key>swiftSymbol</key>
+			<string>onigiri</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameSalmonSushi</string>
+			<key>relativePath</key>
+			<string>./sushi image assets/salmon-sushi.imageset</string>
+			<key>swiftSymbol</key>
+			<string>salmonSushi</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameShrimpSushi</string>
+			<key>relativePath</key>
+			<string>./sushi image assets/shrimp-sushi.imageset</string>
+			<key>swiftSymbol</key>
+			<string>shrimpSushi</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTakoSushi</string>
+			<key>relativePath</key>
+			<string>./sushi image assets/tako-sushi.imageset</string>
+			<key>swiftSymbol</key>
+			<string>takoSushi</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTamagoSushi</string>
+			<key>relativePath</key>
+			<string>./sushi image assets/tamago-sushi.imageset</string>
+			<key>swiftSymbol</key>
+			<string>tamagoSushi</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameTobikoSpicyMaki</string>
+			<key>relativePath</key>
+			<string>./sushi image assets/tobiko-spicy-maki.imageset</string>
+			<key>swiftSymbol</key>
+			<string>tobikoSpicyMaki</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>26860BA6-9AE0-479A-879B-11555253551F</key>
+		<key>0B46FA05-01A3-450E-8667-4C83D247A048</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,217 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>26860BA6-9AE0-479A-879B-11555253551F.xcactivitylog</string>
+			<string>0B46FA05-01A3-450E-8667-4C83D247A048.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Menu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Menu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Menu</string>
+			<key>timeStartedRecording</key>
+			<real>735562599.69638801</real>
+			<key>timeStoppedRecording</key>
+			<real>735562602.36341798</real>
+			<key>title</key>
+			<string>Build Menu</string>
+			<key>uniqueIdentifier</key>
+			<string>0B46FA05-01A3-450E-8667-4C83D247A048</string>
+		</dict>
+		<key>14B8B8F2-D236-4F1C-8B2C-FB6D604610CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>14B8B8F2-D236-4F1C-8B2C-FB6D604610CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>3</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Menu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Menu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Menu</string>
+			<key>timeStartedRecording</key>
+			<real>735562498.73050404</real>
+			<key>timeStoppedRecording</key>
+			<real>735562499.16658497</real>
+			<key>title</key>
+			<string>Build for Previews Menu</string>
+			<key>uniqueIdentifier</key>
+			<string>14B8B8F2-D236-4F1C-8B2C-FB6D604610CA</string>
+		</dict>
+		<key>14EA8A70-6472-4D2D-B1F4-9D3D5E1DB39D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>14EA8A70-6472-4D2D-B1F4-9D3D5E1DB39D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Menu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Menu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Menu</string>
+			<key>timeStartedRecording</key>
+			<real>735562526.09802496</real>
+			<key>timeStoppedRecording</key>
+			<real>735562526.40048897</real>
+			<key>title</key>
+			<string>Build for Previews Menu</string>
+			<key>uniqueIdentifier</key>
+			<string>14EA8A70-6472-4D2D-B1F4-9D3D5E1DB39D</string>
+		</dict>
+		<key>16ADA118-A2A8-4E68-BC00-8A4821A4402C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>16ADA118-A2A8-4E68-BC00-8A4821A4402C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Menu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Menu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Menu</string>
+			<key>timeStartedRecording</key>
+			<real>735562503.418998</real>
+			<key>timeStoppedRecording</key>
+			<real>735562503.64472198</real>
+			<key>title</key>
+			<string>Build for Previews Menu</string>
+			<key>uniqueIdentifier</key>
+			<string>16ADA118-A2A8-4E68-BC00-8A4821A4402C</string>
+		</dict>
+		<key>1B6A39C9-60D0-450D-9758-521F3BBA644E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B6A39C9-60D0-450D-9758-521F3BBA644E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Menu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Menu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Menu</string>
+			<key>timeStartedRecording</key>
+			<real>735562556.33911502</real>
+			<key>timeStoppedRecording</key>
+			<real>735562557.39099598</real>
+			<key>title</key>
+			<string>Build for Previews Menu</string>
+			<key>uniqueIdentifier</key>
+			<string>1B6A39C9-60D0-450D-9758-521F3BBA644E</string>
+		</dict>
+		<key>3975AF7D-6BFB-4093-9093-20DEEA285D7C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3975AF7D-6BFB-4093-9093-20DEEA285D7C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,13 +250,223 @@
 			<key>signature</key>
 			<string>Build for Previews Menu</string>
 			<key>timeStartedRecording</key>
-			<real>735549293.11196494</real>
+			<real>735562535.813797</real>
 			<key>timeStoppedRecording</key>
-			<real>735549293.43619704</real>
+			<real>735562536.02311897</real>
 			<key>title</key>
 			<string>Build for Previews Menu</string>
 			<key>uniqueIdentifier</key>
-			<string>26860BA6-9AE0-479A-879B-11555253551F</string>
+			<string>3975AF7D-6BFB-4093-9093-20DEEA285D7C</string>
+		</dict>
+		<key>3F60E45F-1DB4-482F-9E5D-915CCA30FF89</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F60E45F-1DB4-482F-9E5D-915CCA30FF89.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Menu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Menu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Menu</string>
+			<key>timeStartedRecording</key>
+			<real>735562295.432531</real>
+			<key>timeStoppedRecording</key>
+			<real>735562295.68350804</real>
+			<key>title</key>
+			<string>Build for Previews Menu</string>
+			<key>uniqueIdentifier</key>
+			<string>3F60E45F-1DB4-482F-9E5D-915CCA30FF89</string>
+		</dict>
+		<key>48B3E831-119E-46B2-BD04-FC4C7EA21386</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48B3E831-119E-46B2-BD04-FC4C7EA21386.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Menu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Menu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Menu</string>
+			<key>timeStartedRecording</key>
+			<real>735562643.07300901</real>
+			<key>timeStoppedRecording</key>
+			<real>735562643.73531699</real>
+			<key>title</key>
+			<string>Build Menu</string>
+			<key>uniqueIdentifier</key>
+			<string>48B3E831-119E-46B2-BD04-FC4C7EA21386</string>
+		</dict>
+		<key>7EFD1E22-4174-49DF-BEF0-CB678A5CB80D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7EFD1E22-4174-49DF-BEF0-CB678A5CB80D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Menu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Menu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Menu</string>
+			<key>timeStartedRecording</key>
+			<real>735562276.87307894</real>
+			<key>timeStoppedRecording</key>
+			<real>735562277.373402</real>
+			<key>title</key>
+			<string>Build for Previews Menu</string>
+			<key>uniqueIdentifier</key>
+			<string>7EFD1E22-4174-49DF-BEF0-CB678A5CB80D</string>
+		</dict>
+		<key>BB3BF27D-F771-46B2-9FB8-4D8505805E24</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB3BF27D-F771-46B2-9FB8-4D8505805E24.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>6</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Menu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Menu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Menu</string>
+			<key>timeStartedRecording</key>
+			<real>735561849.17079306</real>
+			<key>timeStoppedRecording</key>
+			<real>735561849.39549994</real>
+			<key>title</key>
+			<string>Build for Previews Menu</string>
+			<key>uniqueIdentifier</key>
+			<string>BB3BF27D-F771-46B2-9FB8-4D8505805E24</string>
+		</dict>
+		<key>D3065F6B-73B6-4186-AE0B-C24A57894B34</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D3065F6B-73B6-4186-AE0B-C24A57894B34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Menu project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Menu</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Menu</string>
+			<key>timeStartedRecording</key>
+			<real>735562292.53797996</real>
+			<key>timeStoppedRecording</key>
+			<real>735562292.75522602</real>
+			<key>title</key>
+			<string>Build for Previews Menu</string>
+			<key>uniqueIdentifier</key>
+			<string>D3065F6B-73B6-4186-AE0B-C24A57894B34</string>
 		</dict>
 	</dict>
 </dict>
