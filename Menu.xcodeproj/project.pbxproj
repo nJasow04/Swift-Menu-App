@@ -15,6 +15,7 @@
 		D2A7E1BB2BD86AEA00BE4ED1 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2A7E1BA2BD86AEA00BE4ED1 /* DataService.swift */; };
 		D2A7E1BD2BD8813D00BE4ED1 /* Test-View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2A7E1BC2BD8813D00BE4ED1 /* Test-View.swift */; };
 		D2A7E1BF2BD881F900BE4ED1 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2A7E1BE2BD881F900BE4ED1 /* CustomButton.swift */; };
+		D2A7E1C12BD894AE00BE4ED1 /* MenuListRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2A7E1C02BD894AE00BE4ED1 /* MenuListRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		D2A7E1BA2BD86AEA00BE4ED1 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		D2A7E1BC2BD8813D00BE4ED1 /* Test-View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Test-View.swift"; sourceTree = "<group>"; };
 		D2A7E1BE2BD881F900BE4ED1 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		D2A7E1C02BD894AE00BE4ED1 /* MenuListRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuListRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				D2A7E1BE2BD881F900BE4ED1 /* CustomButton.swift */,
 				D22D013E2BD52BAA005B32BD /* Assets.xcassets */,
 				D22D01402BD52BAA005B32BD /* Preview Content */,
+				D2A7E1C02BD894AE00BE4ED1 /* MenuListRow.swift */,
 			);
 			path = Menu;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2A7E1C12BD894AE00BE4ED1 /* MenuListRow.swift in Sources */,
 				D2A7E1BD2BD8813D00BE4ED1 /* Test-View.swift in Sources */,
 				D22D01492BD636A1005B32BD /* MenuItem.swift in Sources */,
 				D2A7E1BF2BD881F900BE4ED1 /* CustomButton.swift in Sources */,
