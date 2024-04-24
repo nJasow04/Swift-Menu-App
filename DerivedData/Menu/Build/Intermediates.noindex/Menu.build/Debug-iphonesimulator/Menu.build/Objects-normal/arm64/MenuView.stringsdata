@@ -1,12 +1,5 @@
 {
   "source": "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/MenuView.swift",
-  "tables": {
-    "Localizable": [
-      {
-        "comment": "",
-        "key": "Button"
-      }
-    ]
-  },
+  "tables": {},
   "version": 1
 }

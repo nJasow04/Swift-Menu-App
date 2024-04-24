@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/Menu-master.dia",
+    "emit-module-dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/Menu-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/Menu-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/Menu-master.swiftdeps"
+  },
+  "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/DataService.swift" : {
+    "const-values" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/DataService.swiftconstvalues",
+    "dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/DataService.d",
+    "diagnostics" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/DataService.dia",
+    "index-unit-output-path" : "/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/DataService.o",
+    "llvm-bc" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/DataService.bc",
+    "object" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/DataService.o",
+    "swift-dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/DataService.swiftdeps",
+    "swiftmodule" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/DataService~partial.swiftmodule"
+  },
+  "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/MenuApp.swift" : {
+    "const-values" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuApp.swiftconstvalues",
+    "dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuApp.d",
+    "diagnostics" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuApp.dia",
+    "index-unit-output-path" : "/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuApp.o",
+    "llvm-bc" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuApp.bc",
+    "object" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuApp.o",
+    "swift-dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuApp.swiftdeps",
+    "swiftmodule" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuApp~partial.swiftmodule"
+  },
+  "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/MenuItem.swift" : {
+    "const-values" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuItem.swiftconstvalues",
+    "dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuItem.d",
+    "diagnostics" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuItem.dia",
+    "index-unit-output-path" : "/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuItem.o",
+    "llvm-bc" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuItem.bc",
+    "object" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuItem.o",
+    "swift-dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuItem.swiftdeps",
+    "swiftmodule" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuItem~partial.swiftmodule"
+  },
+  "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/Menu/MenuView.swift" : {
+    "const-values" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuView.swiftconstvalues",
+    "dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuView.d",
+    "diagnostics" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuView.dia",
+    "index-unit-output-path" : "/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuView.o",
+    "llvm-bc" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuView.bc",
+    "object" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuView.o",
+    "swift-dependencies" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuView.swiftdeps",
+    "swiftmodule" : "/Users/jasonwan/Code/Tutorial Projects/Swift Stuff/Menu/DerivedData/Menu/Build/Intermediates.noindex/Previews/iphonesimulator/Menu/Intermediates.noindex/Menu.build/Debug-iphonesimulator/Menu.build/Objects-normal/arm64/MenuView~partial.swiftmodule"
+  }
+}

@@ -12,6 +12,7 @@ struct MenuApp: App {
     var body: some Scene {
         WindowGroup {
             MenuView()
+//            Test_View()
         }
     }
 }
